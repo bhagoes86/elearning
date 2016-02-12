@@ -213,9 +213,6 @@ header {
       header #header-content .navbar-brand img {
         width: 100%; }
     header #header-content .advertis {
-      width: 450;
-      height: 70px;
-      border: 1px solid #dddddd;
       margin-top: -10px;
       margin-bottom: -10px; }
       header #header-content .advertis img {
